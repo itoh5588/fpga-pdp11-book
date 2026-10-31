@@ -2,6 +2,10 @@
 
 伊藤明雄 著『れがしーなOS達: FPGAで動かす PDP-11と2.11BSD』（2026年11月1日 第1版第1刷発行）のサポートページです。お知らせ、正誤表、本書に出てくるリンクの一覧を載せています。
 
+<a href="https://www.amazon.co.jp/dp/B0HPY4LHXY"><img src="images/cover.jpg" width="240" alt="『れがしーなOS達: FPGAで動かす PDP-11と2.11BSD』の表紙"></a>
+
+本書は Kindle 版で読めます：[Amazon.co.jp の本書のページ](https://www.amazon.co.jp/dp/B0HPY4LHXY)
+
 - [お知らせ](#お知らせ)
 - [正誤表](ERRATA.md)
 - [誤りや質問を知らせる](#誤りや質問を知らせる)
