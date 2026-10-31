@@ -62,7 +62,7 @@ https://github.com/itoh5588/w11/releases/download/book-v2
 ### 第3章　回路データを用意する
 
 - [配布 `.bit` のリリースのページ（book-v2）](https://github.com/itoh5588/w11/releases/tag/book-v2)
-- [w11 のリポジトリ（単体動作版）](https://github.com/itoh5588/w11)：`git clone` で取得する
+- [w11 のリポジトリ（単体動作版）](https://github.com/itoh5588/w11/tree/artys7-standalone)：`git clone` で取得する。トップの既定のブランチ（master）は、もとの w11 の英語の README を表示する
 - [単体動作版 README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/README.md)
 
 ### 第4章　2.11BSD の microSD を用意する
@@ -132,15 +132,15 @@ https://github.com/itoh5588/w11/releases/download/book-v2
 
 #### w11 のソースと実装資料
 
-- [w11 — PDP-11/70 CPU core and SoC（公開元）](https://github.com/wfjm/w11)、[ライセンス本文](https://github.com/wfjm/w11/blob/master/License.txt)
+- [w11 — PDP-11/70 CPU core and SoC（公開元、英語）](https://github.com/wfjm/w11)、[ライセンス本文](https://github.com/wfjm/w11/blob/master/License.txt)
 - [standalone README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/README.md)
 - [GitHub Releases（book-v2）](https://github.com/itoh5588/w11/releases/tag/book-v2)
 - [book-scripts](https://github.com/itoh5588/w11/tree/0457012d900638c19bd456a6673813f533e1604d/book-scripts)（コミット `0457012d`）
-- [Guide to install and build w11a systems, test benches and support software](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/INSTALL.md)
-- [Guide to the Build System (Xilinx Vivado Version)](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/README_buildsystem_Vivado.md)
+- [Guide to install and build w11a systems, test benches and support software](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/INSTALL.md)（英語）
+- [Guide to the Build System (Xilinx Vivado Version)](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/README_buildsystem_Vivado.md)（英語）
 - [SD_CARD.md](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/SD_CARD.md)
 - [RP07 設計メモ](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/Docs/artys7_standalone_rp07_design.md)
-- [211bsd_rl キットの README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/tools/oskit/211bsd_rl/README.md)
+- [211bsd_rl キットの README（英語）](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/tools/oskit/211bsd_rl/README.md)
 
 book-scripts を取得するときの URL：
 
@@ -183,5 +183,5 @@ https://raw.githubusercontent.com/itoh5588/w11/0457012d900638c19bd456a6673813f53
 ### 付録E　RL01・RL02 を一枚の microSD に収める
 
 - [211bsd_rlset.tgz](http://www.retro11.de/data/oc_w11/oskits/211bsd_rlset.tgz)：RL 版 2.11BSD のディスクイメージ
-- [211bsd_rl キットの README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/tools/oskit/211bsd_rl/README.md)：入手と展開の方法
+- [211bsd_rl キットの README（英語）](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/tools/oskit/211bsd_rl/README.md)：入手と展開の方法
 - [RL01/RL02 Disk Drive Technical Manual](https://bitsavers.org/pdf/dec/disc/rl01_rl02/EK-RL012-TM-PRE_RL01_RL02_Disk_Drive_Technical_Manual_Preliminary_Dec79.pdf)（DEC）
