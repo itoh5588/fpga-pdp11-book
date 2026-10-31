@@ -34,7 +34,7 @@
 
 - [配布ファイル（GitHub Releases、book-v2）](https://github.com/itoh5588/w11/releases/tag/book-v2)：`.bit`、microSD のイメージ、SHA-256
 - [単体動作版 README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/README.md)：回路の構成と追加回路の案内
-- [book-scripts](https://github.com/itoh5588/w11/tree/0457012d900638c19bd456a6673813f533e1604d/book-scripts)：本文のコマンドを節ごとに切り出したスクリプト
+- [book-scripts](https://github.com/itoh5588/w11/tree/9c4ef6e32a0fb56371647a84fb30eb089ea7c4b2/book-scripts)：本文のコマンドを節ごとに切り出したスクリプト
 
 第3章でソースを取得するコマンド：
 
@@ -135,7 +135,7 @@ https://github.com/itoh5588/w11/releases/download/book-v2
 - [w11 — PDP-11/70 CPU core and SoC（公開元、英語）](https://github.com/wfjm/w11)、[ライセンス本文](https://github.com/wfjm/w11/blob/master/License.txt)
 - [standalone README](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/README.md)
 - [GitHub Releases（book-v2）](https://github.com/itoh5588/w11/releases/tag/book-v2)
-- [book-scripts](https://github.com/itoh5588/w11/tree/0457012d900638c19bd456a6673813f533e1604d/book-scripts)（コミット `0457012d`）
+- [book-scripts](https://github.com/itoh5588/w11/tree/9c4ef6e32a0fb56371647a84fb30eb089ea7c4b2/book-scripts)（コミット `9c4ef6e3`）
 - [Guide to install and build w11a systems, test benches and support software](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/INSTALL.md)（英語）
 - [Guide to the Build System (Xilinx Vivado Version)](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/README_buildsystem_Vivado.md)（英語）
 - [SD_CARD.md](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/SD_CARD.md)
@@ -145,7 +145,7 @@ https://github.com/itoh5588/w11/releases/download/book-v2
 book-scripts を取得するときの URL：
 
 ```text
-https://raw.githubusercontent.com/itoh5588/w11/0457012d900638c19bd456a6673813f533e1604d/book-scripts
+https://raw.githubusercontent.com/itoh5588/w11/9c4ef6e32a0fb56371647a84fb30eb089ea7c4b2/book-scripts
 ```
 
 #### FPGA・ディジタル回路設計の日本語入門書
