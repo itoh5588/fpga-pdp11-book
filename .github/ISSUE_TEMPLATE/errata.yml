@@ -1,0 +1,37 @@
+name: 本の誤り
+description: 本文、手順、画面例、リンクの誤りを知らせる
+title: "[誤り] "
+labels: ["errata"]
+body:
+  - type: input
+    id: edition
+    attributes:
+      label: 版と刷
+      description: 奥付にあります
+      placeholder: 第1版第1刷
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 場所
+      description: 章と節の見出し。PDF ならページ番号も
+      placeholder: 第4章「書込み先のカードを特定する」
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: 誤りと思われる箇所
+      description: 本文をそのまま写してください
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: 正しいと思われる内容と理由
+  - type: textarea
+    id: env
+    attributes:
+      label: 手順の問題なら、環境と最後の画面
+      description: PC の OS、配布物のタグ（book-v2 など）、最後に表示された画面

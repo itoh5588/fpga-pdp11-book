@@ -1,0 +1,24 @@
+name: 質問・手順どおりに進まない
+description: 本の手順で進めなかったときの相談
+title: "[質問] "
+labels: ["question"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: 場所
+      description: 章と節の見出し
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 行ったことと、最後に表示された画面
+      description: 付録A「調査のために残す記録」の項目があると調べやすくなります
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: 環境
+      placeholder: Windows 11、Vivado Lab 2025.2、book-v2 の配布物
