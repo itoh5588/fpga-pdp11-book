@@ -139,7 +139,7 @@ https://github.com/itoh5588/w11/releases/download/book-v2
 - [Guide to install and build w11a systems, test benches and support software](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/INSTALL.md)（英語）
 - [Guide to the Build System (Xilinx Vivado Version)](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/doc/README_buildsystem_Vivado.md)（英語）
 - [SD_CARD.md](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/rtl/sys_gen/w11a/artys7_standalone/SD_CARD.md)
-- [RP07 設計メモ](https://github.com/itoh5588/w11/blob/a8af808d32ec73ae1edca1c2fc1da26bb2490691/Docs/artys7_standalone_rp07_design.md)
+- [RP07 設計メモ](https://github.com/itoh5588/w11/blob/4940b757c7e664744f26c00b30d8166c7bd6814c/Docs/artys7_standalone_rp07_design.md)
 - [211bsd_rl キットの README（英語）](https://github.com/itoh5588/w11/blob/b935933427af18def5804802fa2a7d95e7f81fa5/tools/oskit/211bsd_rl/README.md)
 
 book-scripts を取得するときの URL：
